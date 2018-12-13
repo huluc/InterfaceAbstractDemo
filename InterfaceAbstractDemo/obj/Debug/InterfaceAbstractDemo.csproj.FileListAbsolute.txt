@@ -1,0 +1,7 @@
+C:\MyProjects\EducationDemos\InterfaceAbstractDemo\InterfaceAbstractDemo\bin\Debug\InterfaceAbstractDemo.exe.config
+C:\MyProjects\EducationDemos\InterfaceAbstractDemo\InterfaceAbstractDemo\bin\Debug\InterfaceAbstractDemo.exe
+C:\MyProjects\EducationDemos\InterfaceAbstractDemo\InterfaceAbstractDemo\bin\Debug\InterfaceAbstractDemo.pdb
+C:\MyProjects\EducationDemos\InterfaceAbstractDemo\InterfaceAbstractDemo\obj\Debug\InterfaceAbstractDemo.csprojAssemblyReference.cache
+C:\MyProjects\EducationDemos\InterfaceAbstractDemo\InterfaceAbstractDemo\obj\Debug\InterfaceAbstractDemo.csproj.CoreCompileInputs.cache
+C:\MyProjects\EducationDemos\InterfaceAbstractDemo\InterfaceAbstractDemo\obj\Debug\InterfaceAbstractDemo.exe
+C:\MyProjects\EducationDemos\InterfaceAbstractDemo\InterfaceAbstractDemo\obj\Debug\InterfaceAbstractDemo.pdb
